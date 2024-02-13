@@ -1,2 +1,8 @@
+# IDE directory
+/.idea/
+
 # Project exclude paths
 /target/
+
+# environment file
+.env
