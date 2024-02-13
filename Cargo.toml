@@ -4,6 +4,10 @@ version = "0.1.0"
 edition = "2021"
 authors = ["Eric (Sk3pz) <skepz.dev@gmail.com>"]
 description = "A 2d space exploration game built with bevy"
+repository = "https://github.com/Sk3pz/stella"
 
 [dependencies]
 bevy = "*"
+bevy_editor_pls = "*"
+dotenv = "*"
+rand = "*"
